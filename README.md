@@ -1,5 +1,5 @@
 # Omul-Bombator
-A multiplayer bomberman clone made in 2 weeks and a half. 
+A multiplayer bomberman clone made in a 2 weeks and a half challenge. 
 Beware, the code is very, very ugly and unneficient (but it works).
 
 ![alt tag](http://i.imgur.com/2dFwAhD.png)
