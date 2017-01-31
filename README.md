@@ -1,5 +1,5 @@
 # Omul-Bombator
-  A multiplayer Bomberman clone made in a 2 weeks and a half challenge. I focused on having a finished product rather than having clean code.
+  A multiplayer (online) Bomberman clone made in a 2 weeks and a half challenge. I focused on having a finished product rather than having clean code.
 Beware: Due to time limits the code is very, very ugly and inefficient (but it works).
 
 ![alt tag](http://i.imgur.com/2dFwAhD.png)
@@ -16,7 +16,7 @@ Beware: Due to time limits the code is very, very ugly and inefficient (but it w
   The textures and the fonts that the resource manager is loading on start (the ones in the above image) aren't on this repository due to licensing. Choose or use your own sprites sheets that fit the size and descripition in order to have the graphics running (and therefore the game working).
 
 ## Features
-  - Multiplayer support.
+  - Network support.
   - Four type of power-ups, eight types of color for bombers, one map at a time on the server.
   - A variety of properties for bombers (Hitpoints, Bombs, Speed, Damage, Range, Kills, Deaths).
   - Ability to plant (Space) and detonate (Left Click) bombs whenever you want.
